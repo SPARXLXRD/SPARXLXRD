@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on just about anything with anyone.
 - 📫 How to reach me you can reach me in the comments or through bluesky.
 - 😄 Pronouns: I honestly don't care
-- ⚡ Fun fact:
+- ⚡ Fun fact: Wi-Fi doesn't stand for anything, it was intended to be a play on words, coined as a play on High-Fidelity "Hi-Fi"
 - 🎮 Gamer Turned Techie: From a young age, I've been obsessed with games and the inner workings of computers—watching them tic like a suspenseful RPG plot twist.
 - 🛡️ Cybersecurity Crusader: Certified as a cybersecurity specialist because breaking things and bending rules is more fun than sticking to the script.
 - 💻 Fullstack Developer by Day: Crafting apps that marry functionality with flair—think of it as adding RPG-level magic to code.
