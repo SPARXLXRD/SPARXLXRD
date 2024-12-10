@@ -15,3 +15,4 @@
 - 🌟 Philosophy of Code: Treat everyone fairly, even if I'm still figuring out my own character arc.
 - 🕹️ Gamer's Paradise: RPGs, FPS, adventure—name it, I game it. They're not just escapism; they're a font of ideas for my own game dev exploits.
 
+Update: GPG key now added to commits
